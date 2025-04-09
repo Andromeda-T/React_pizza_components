@@ -107,6 +107,8 @@ body {
 .pizza {
   display: flex;
   gap: 3.2rem;
+  margin-bottom: 2rem;
+
 }
 
 .pizza img {
@@ -175,6 +177,7 @@ body {
 
 .btn:hover {
   background-color: #e9bb24;
+  display: flex;
 }
 
 /*
